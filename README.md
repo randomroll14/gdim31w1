@@ -2,6 +2,7 @@
 ## Devlogs
 ### W1
 The camera becomes a game object that is not tied to the cat anymore. When the cat is moved, the camera does not move with it and stays where it started.
+https://randomroll14.itch.io/gdim-31-w1-assignment
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
