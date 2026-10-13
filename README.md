@@ -11,6 +11,15 @@ https://randomroll14.itch.io/gdim-31-w1-assignment
 
 ### W3
 
+Table 14:
+1. Output is a string, inputs are a float and bool respectively.
+2. Output is a void, input is a float.
+3. Output is a bool, input is a float.
+
+Components are like a video game character, classes are the spells they can use, the member variables are the stats of the spell, and the methods are the effects of the spell.
+
+It's an exponential multiplier so if it bounces a bunch of times then it will multiply into the stratosphere.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
