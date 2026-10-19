@@ -11,13 +11,16 @@ https://randomroll14.itch.io/gdim-31-w1-assignment
 
 ### W3
 
+Activity 1 (Answers to three questions):
 Table 14:
 1. Output is a string, inputs are a float and bool respectively.
 2. Output is a void, input is a float.
 3. Output is a bool, input is a float.
 
+Activity 2 (Metaphor for components and classes):
 Components are like a video game character, classes are the spells they can use, the member variables are the stats of the spell, and the methods are the effects of the spell.
 
+Activity 3 (Devlog question):
 It's an exponential multiplier so if it bounces a bunch of times then it will multiply into the stratosphere.
 
 ## Open-Source Assets

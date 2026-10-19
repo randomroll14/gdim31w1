@@ -945,7 +945,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 951203692}
   _rigidbody: {fileID: 951203693}
-  _speedMultiplier: 10
+  _speedMultiplier: 1.25
   _speedThreshold: 10
 --- !u!58 &951203691
 CircleCollider2D:
