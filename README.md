@@ -23,6 +23,13 @@ Components are like a video game character, classes are the spells they can use,
 Activity 3 (Devlog question):
 It's an exponential multiplier so if it bounces a bunch of times then it will multiply into the stratosphere.
 
+### W4
+
+Activity 1 (Collision Discussion):
+Table 14:
+1. The cat and soccer ball had rigidbodies because they should be able to hit each other and bounce off walls. The goal should be a trigger because it should check when the ball enters it.
+2. The cat rotated really funnily which messed up the camera that was attached to it so all I had to do was lock the x and z rotations.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
